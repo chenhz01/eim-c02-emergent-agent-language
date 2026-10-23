@@ -1,0 +1,1 @@
+[P06] ['check db', 'db then', 'then deploy']
